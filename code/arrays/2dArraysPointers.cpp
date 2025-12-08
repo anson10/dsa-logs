@@ -14,7 +14,7 @@ int main() {
     int i = 1; // Target Row Index
     int j = 2; // Target Column Index
     
-    cout << "--- Pointers and 2D Arrays Demonstration ---\n\n";
+    cout << "Pointers and 2D Arrays Demonstration \n\n";
 
     // --- A. Accessing the Value (a[i][j]) ---
     cout << "A. Accessing VALUE of a[" << i << "][" << j << "] (Value: " << a[i][j] << ")\n";
