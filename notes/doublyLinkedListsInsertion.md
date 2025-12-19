@@ -354,6 +354,5 @@ Only addresses change.
 - **Insert End** → new node becomes tail
 - **Insert Position** → reconnect 4 pointers
 - **Display** → walk using `next`
-
 ---
 
